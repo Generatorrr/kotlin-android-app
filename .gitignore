@@ -1,0 +1,5 @@
+.idea
+### gradle specific
+.gradle/
+build
+**/src/generated/
