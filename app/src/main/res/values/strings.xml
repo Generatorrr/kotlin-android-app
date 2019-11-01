@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="btn_create_new_contact_text">Create new contact</string>
+    <string name="et_contact_name_hint">Enter name</string>
+    <string name="et_contact_phone_number_hint">Enter number</string>
+    <string name="et__contact_website_hint">Enter website</string>
+    <string name="et__contact_location_hint">Enter location</string>
+</resources>
